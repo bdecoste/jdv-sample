@@ -26,7 +26,6 @@
 
 	<modules>
         <module>dynamicvdb-datafederation</module>
-        <module>dynamicvdb-dataroles</module>
         <module>hibernate-on-top-of-teiid</module>
         <module>webservices-as-a-datasource</module>
         <module>simpleclient</module>
