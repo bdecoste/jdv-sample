@@ -57,7 +57,7 @@ public class JDBCClient {
 	}
 	
 	static Connection getDriverConnection(String host, String port, String vdb) throws Exception {
-		String url = "jdbc:teiid:"+vdb+"@mms://"+host+":"+port+";showplan=on"; //note showplan setting
+		String url = "jdbc:teiid:"+vdb+"@mm://"+host+":"+port+";showplan=on"; //note showplan setting
 		Class.forName("org.teiid.jdbc.TeiidDriver");
 		
 		return DriverManager.getConnection(url,getUserName(), getPassword());		
