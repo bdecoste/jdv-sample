@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jboss.teiid.quickstart</groupId>
     <artifactId>dynamicvdb-resteasy-client</artifactId>
-    <version>3.0.0.redhat-63-10</version>
+    <version>2.1.0.redhat-62-7</version>
 
     <name>REST Service Through Portfolio Dynamic VDB RestEasy Client</name>
     <description>This quickstart demonstrates how to enable REST Service Through Portfolio Dynamic VDB RestEasy Client</description>
@@ -14,7 +14,7 @@
         <version.commons-codec>1.4.0.redhat-4</version.commons-codec>
         <version.org.hibernate.search>4.6.0.Final-redhat-2</version.org.hibernate.search>
         <version.javax.annotation>1.0.1.Final-redhat-3</version.javax.annotation>
-        <version.org.jboss.teiid.quickstart>3.0.0.redhat-63-10</version.org.jboss.teiid.quickstart>
+        <version.org.jboss.teiid.quickstart>2.1.0.redhat-62-7</version.org.jboss.teiid.quickstart>
         <version.org.apache.httpcomponents.httpclient>4.3.6.redhat-1</version.org.apache.httpcomponents.httpclient>
         <version.org.mockito>1.9.5</version.org.mockito>
         <version.org.apache.httpcomponents.httpcore>4.3.3.redhat-1</version.org.apache.httpcomponents.httpcore>
@@ -3532,66 +3532,66 @@
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>console-extensions</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <classifier>sources</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>console-extensions</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>console-extensions</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <classifier>resources</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <classifier>sources</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <type>war</type>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console-dist</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <type>zip</type>
         <classifier>jboss-as7</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console-dist</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console-dist</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.web-console</groupId>
         <artifactId>teiid-console-parent</artifactId>
-        <version>2.5.6.Final-redhat-63-10</version>
+        <version>2.5.6.Final-redhat-2</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
@@ -3661,59 +3661,59 @@
 			<dependency>
         <groupId>org.modeshape</groupId>
         <artifactId>modeshape-rhq</artifactId>
-        <version>3.8.1.GA-redhat-63-10</version>
+        <version>3.8.1.GA-redhat-62-6</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.modeshape</groupId>
         <artifactId>modeshape-rhq-parent</artifactId>
-        <version>3.8.1.GA-redhat-63-10</version>
+        <version>3.8.1.GA-redhat-62-6</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.modeshape</groupId>
         <artifactId>modeshape-rhq-plugin</artifactId>
-        <version>3.8.1.GA-redhat-63-10</version>
+        <version>3.8.1.GA-redhat-62-6</version>
         <classifier>sources</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.modeshape</groupId>
         <artifactId>modeshape-rhq-plugin</artifactId>
-        <version>3.8.1.GA-redhat-63-10</version>
+        <version>3.8.1.GA-redhat-62-6</version>
         <classifier>tests</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.modeshape</groupId>
         <artifactId>modeshape-rhq-plugin</artifactId>
-        <version>3.8.1.GA-redhat-63-10</version>
+        <version>3.8.1.GA-redhat-62-6</version>
       </dependency>  
 			<dependency>
         <groupId>org.modeshape</groupId>
         <artifactId>modeshape-rhq-plugin</artifactId>
-        <version>3.8.1.GA-redhat-63-10</version>
+        <version>3.8.1.GA-redhat-62-6</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.rhq</groupId>
         <artifactId>teiid-rhq</artifactId>
-        <version>2.2.0.redhat-63-10</version>
+        <version>2.1.0.redhat-62-7</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.rhq</groupId>
         <artifactId>teiid-rhq-plugin</artifactId>
-        <version>2.2.0.redhat-63-10</version>
+        <version>2.1.0.redhat-62-7</version>
         <classifier>sources</classifier>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.rhq</groupId>
         <artifactId>teiid-rhq-plugin</artifactId>
-        <version>2.2.0.redhat-63-10</version>
+        <version>2.1.0.redhat-62-7</version>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.teiid.rhq</groupId>
         <artifactId>teiid-rhq-plugin</artifactId>
-        <version>2.2.0.redhat-63-10</version>
+        <version>2.1.0.redhat-62-7</version>
         <type>pom</type>
       </dependency>  
 			<dependency>
