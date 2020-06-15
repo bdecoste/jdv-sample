@@ -5615,7 +5615,7 @@
 			<dependency>
         <groupId>commons-collections</groupId>
         <artifactId>commons-collections</artifactId>
-        <version>3.2.1.redhat-7</version>
+        <version>3.2.2</version>
       </dependency>  
 			<dependency>
         <groupId>commons-io</groupId>
