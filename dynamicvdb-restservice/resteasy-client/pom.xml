@@ -6190,7 +6190,7 @@
 			<dependency>
         <groupId>org.jboss</groupId>
         <artifactId>jboss-ejb-client</artifactId>
-        <version>1.0.35.Final-redhat-1</version>
+        <version>4.0.39.Final</version>
       </dependency>  
 			<dependency>
         <groupId>org.jboss.ejb3</groupId>
