@@ -5980,7 +5980,7 @@
 			<dependency>
         <groupId>org.hornetq</groupId>
         <artifactId>hornetq-server</artifactId>
-        <version>2.3.25.SP11-redhat-1</version>
+        <version>2.4.0.Final</version>
       </dependency>  
 			<dependency>
         <groupId>org.hornetq</groupId>
