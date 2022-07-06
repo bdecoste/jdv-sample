@@ -6842,7 +6842,7 @@
 			<dependency>
         <groupId>org.jgroups</groupId>
         <artifactId>jgroups</artifactId>
-        <version>3.2.16.Final-redhat-1</version>
+        <version>4.0.0.Final</version>
       </dependency>  
 			<dependency>
         <groupId>org.kohsuke.rngom</groupId>
